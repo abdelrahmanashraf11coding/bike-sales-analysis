@@ -98,16 +98,15 @@ Some occupations show higher purchase behavior, indicating that lifestyle and jo
 
 # Visualizations
 
-![Age Group Chart](images/Age_Group_Bike_Purchases.png)
+![Age Group Chart](images/age_group_chart.png)
 
-![Gender Chart](images/Gender_Bike_Purchases.png)
+![Gender Chart](images/gender_chart.png)
 
-![Cars Chart](images/Cars_Bike_Purchases.png)
+![Cars Chart](images/cars_chart.png)
 
-![Commute Chart](images/Commute_Distance_Bike_Purchases.png)
+![Commute Chart](images/commute_chart.png)
 
-![Occupation Chart](images/Occupation_Bike_Purchases.png)
-
+![Occupation Chart](images/occupation_chart.png)
 ---
 
 # Project Structure
