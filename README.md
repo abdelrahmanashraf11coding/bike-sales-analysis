@@ -98,28 +98,15 @@ Some occupations show higher purchase behavior, indicating that lifestyle and jo
 
 # Visualizations
 
-## Age Group vs Purchased Bike
-![Age Group Chart](images/age_group_chart.png)
+![Age Group Chart](images/Age_Group_Bike_Purchases.png)
 
----
+![Gender Chart](images/Gender_Bike_Purchases.png)
 
-## Gender vs Purchased Bike
-![Gender Chart](images/gender_chart.png)
+![Cars Chart](images/Cars_Bike_Purchases.png)
 
----
+![Commute Chart](images/Commute_Distance_Bike_Purchases.png)
 
-## Cars vs Purchased Bike
-![Cars Chart](images/cars_chart.png)
-
----
-
-## Commute Distance vs Purchased Bike
-![Commute Chart](images/commute_chart.png)
-
----
-
-## Occupation vs Purchased Bike
-![Occupation Chart](images/occupation_chart.png)
+![Occupation Chart](images/Occupation_Bike_Purchases.png)
 
 ---
 
