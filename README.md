@@ -98,16 +98,15 @@ Some occupations show higher purchase behavior, indicating that lifestyle and jo
 
 # Visualizations
 
-![Age Group Chart](../images/age_group_chart.png)
+![Age Group Chart](images/age_group_chart.png)
 
-![Gender Chart](../images/gender_chart.png)
+![Gender Chart](images/gender_chart.png)
 
-![Cars Chart](../images/cars_chart.png)
+![Cars Chart](images/cars_chart.png)
 
-![Commute Chart](../images/commute_chart.png)
+![Commute Chart](images/commute_chart.png)
 
-![Occupation Chart](../images/occupation_chart.png)
----
+![Occupation Chart](images/occupation_chart.png)
 
 # Project Structure
 
